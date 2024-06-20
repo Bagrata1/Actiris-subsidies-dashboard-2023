@@ -84,7 +84,7 @@ The aim of the project is to use data engineering methods with efficient data ET
 
 PDF version of created dashboard available in the repository. 
 
-Online Linke available temporarily - [Dashboard Looker Studio](https://lookerstudio.google.com/s/lJe0F2h5zQM)
+Online Link is available temporarily - [Dashboard Looker Studio](https://lookerstudio.google.com/s/lJe0F2h5zQM)
 
 ![Page1](docs_photos/Dashboard-Page1.png)
 
